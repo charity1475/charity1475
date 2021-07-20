@@ -1,8 +1,8 @@
 
 ### Hi there 👋 I'm Charity
 
-- 🔭 I’m currently a Software Engineer 
-- 🌱 I’m currently learning Spring framework and Autonomous navigation.
+- 🔭 I’m a Software Engineer 
+- 🌱 I’m currently learning Microservices architecture and Container Orchestration with Kubernetes.
 - 📫 How to reach me: charitymbisi@gmail.com
 - [About me](https://charitymbisi.me/)
 ### ~I have no special talents, just passionately curious and i don't pretend more than that.
