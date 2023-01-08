@@ -4,7 +4,7 @@
 - 🔭 I’m a Software Engineer 
 - 🌱 I’m currently learning Microservices architecture and Container Orchestration with Kubernetes.
 - 📫 How to reach me: charitymbisi@gmail.com
-- [About me](https://charitymbisi.me/)
+- [About me](https://charity-eight.vercel.app)
 ### ~I have no special talents, just passionately curious and i don't pretend more than that.
 
 
