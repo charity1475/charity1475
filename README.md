@@ -3,6 +3,7 @@
 
 - 🔭 I’m a Software Engineer 
 - 🌱 I’m currently learning Microservices architecture and Container Orchestration with Kubernetes.
+-    I'm a [![Gopher](https://pkg.go.dev/badge/github.com/charity1475.svg)](https://pkg.go.dev/github.com/charity1475)
 - 📫 How to reach me: charitymbisi@gmail.com
 - [About me](https://charity-eight.vercel.app)
 ### ~I have no special talents, just passionately curious and i don't pretend more than that.
