@@ -1,11 +1,9 @@
 
 ### Hi there 👋 I'm Charity
 
-- 🔭 I’m a Software Engineer 
-- 🌱 I’m currently learning Container Orchestration with Kubernetes and Rust lang.
+- 🔭 I’m a Software Developer
 - 📫 How to reach me: charitymbisi@gmail.com
 - [About me](https://charity-eight.vercel.app)
-- ![ Gopher ](https://pkg.go.dev/badge/github.com/charity1475.svg)
 ### ~I have no special talents, just passionately curious.
 
 <div align="left">
