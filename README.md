@@ -4,7 +4,8 @@
 - 🔭 I’m a Software Developer
 - 📫 How to reach me: charitymbisi@gmail.com
 - [About me](https://charity-eight.vercel.app)
-### ~I have no special talents, just passionately curious.
+
+A passionate Software Engineer 🚀 having an experience of Backend Development and DevOps using Golang / Python /Java script/ React/ Docker / Kubernetes and cloud computing echnologies.
 
 <div align="left">
 
