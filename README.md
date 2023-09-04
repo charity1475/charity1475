@@ -5,7 +5,7 @@
 - 📫 How to reach me: charitymbisi@gmail.com
 - [About me](https://charity-eight.vercel.app)
 
-A passionate Software Engineer 🚀 having an experience of Backend Development and DevOps using Golang / Python /Java script/ React/ Docker / Kubernetes and cloud computing echnologies.
+A passionate Software Engineer 🚀 with experience in Backend Development and DevOps Technologies.
 
 <div align="left">
 
