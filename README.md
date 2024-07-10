@@ -1,21 +1,15 @@
 
 ### Hi there 👋 I'm Charity
 
-- 🔭 I’m a Software Developer
+- 🔭 As a dedicated Software Engineer with 5 years of experience, I am passionate about leveraging technology and my problem-solving skills to drive impactful solutions in backend development, systems integration, and data integration. My expertise in Java, Spring Boot, cloud computing, and various other backend technologies positions me to develop robust and scalable solutions for complex challenges.
+
+- 🔭 Currently, I excel at creating and integrating APIs, enhancing banking systems, and ensuring secure, efficient data flow. My proficiency in technologies like Docker, Terraform, CI/CD, WSO2, CIAM, and more enables me to deliver high-quality solutions that meet the evolving needs of the industry.
+
+- 🔭 Fluent in Swahili, English, and Deutsch I thrive in diverse, cross-cultural environments, fostering seamless communication and collaboration. My strong ownership mindset and excellent communication skills contribute to my effectiveness in both team and client-facing roles.
+
+- 🔭 Driven by a commitment to continuous learning and innovation, I stay abreast of the latest technological advancements and seek opportunities to apply new knowledge to my work. I am excited to connect with fellow professionals, collaborate on cutting-edge projects, and contribute to the advancement of backend development and systems integration.
+
 - 📫 How to reach me: charitymbisi@gmail.com
 - [About me](https://charity-eight.vercel.app)
 
-A passionate Software Engineer 🚀 with experience in Backend Development and DevOps Technologies.
-
-<div align="left">
-
-[![][banner-url]][repo-url]  
-
-
-</div>
-
-[panda]: https://user-images.githubusercontent.com/7276145/117089593-ec02d000-ad23-11eb-8019-80bd34eecaa3.gif
-[repo-url]: https://github.com/charity1475
-[banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=68dda171e3a7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
